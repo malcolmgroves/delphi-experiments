@@ -1,6 +1,6 @@
-What's in delphi-samples?
-=========================
-Sample source from conference presentations and also tutorials on www.malcolmgroves.com 
+What's in delphi-experiments?
+=============================
+Various proof of concepts, hacks and noodlings from www.malcolmgroves.com 
 
 
 FilteredList

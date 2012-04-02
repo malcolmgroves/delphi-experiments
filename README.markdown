@@ -5,7 +5,7 @@ Various proof of concepts, hacks and noodlings from www.malcolmgroves.com
 
 FilteredList
 ------------
-An experiment to create a filtered generic list using anonymous methods[More info](http://www.malcolmgroves.com/blog/?p=273)
+An experiment to create a filtered generic list using anonymous methods [More info](http://www.malcolmgroves.com/blog/?p=273)
 
 GenericFactory
 --------------
